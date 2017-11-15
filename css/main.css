@@ -1,0 +1,24 @@
+/* html link */
+a {
+    color: red;
+}
+
+/* css link */
+a {
+    color: green;
+}
+
+/* js link */
+a {
+    color: hotpink;
+}
+
+/* jquery link */
+a {
+    color: blue;
+}
+  /* Add a background color on hover */
+button:hover{
+  background-color:blue;
+
+}
